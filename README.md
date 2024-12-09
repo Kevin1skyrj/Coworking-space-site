@@ -1,19 +1,16 @@
-# Getting Started
-Install the dependencies and run the project
-```
-npm install
-npm start
-```
+# Coworking Space Website 🏢
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
+A professional and modern website designed for coworking spaces, built using **HTML** and **CSS**. This project highlights a clean and user-friendly interface perfect for showcasing coworking services and features.
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+---
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+## 🚀 Features
 
-Happy Coding!
+- **Responsive Design**: Optimized for mobile, tablet, and desktop screens.
+- **Modern Layout**: Clean and professional design for business needs.
+- **Custom CSS Styling**: Attractive visuals and smooth layout.
+
+---
+
+## 📂 Project Structure
+
